@@ -92,3 +92,8 @@ ENV/
 
 # pyCharm
 .idea
+
+#virtualEnv
+/alexa-metra
+
+secrets.py
