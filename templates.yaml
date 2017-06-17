@@ -1,6 +1,9 @@
 welcome: |
     <speak>
-        Welcome to Metra-Alexa.
+        Welcome to Alexa-Metra.
         Ask me to read the schedule for a line at a stop.
         Otherwise, ask for the next inbound or outbound train at a stop
     </speak>
+
+next_inbound: |
+  The next inbound train at {{ stop }} is at {{ time | humanize_time }}

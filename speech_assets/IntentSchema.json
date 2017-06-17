@@ -10,10 +10,6 @@
         {
           "name": "Routes",
           "type": "LIST_OF_ROUTES"
-        },
-        {
-          "name": "Date",
-          "type": "AMAZON.DATE"
         }
       ]
     },
