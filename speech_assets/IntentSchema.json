@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "ReadInboundScheduleIntent",
+      "slots": [
+        {
+          "name": "Stops",
+          "type": "LIST_OF_STOPS"
+        },
+        {
+          "name": "Routes",
+          "type": "LIST_OF_ROUTES"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

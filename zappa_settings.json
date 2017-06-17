@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "alexa-metra.app", 
+        "s3_bucket": "alexa-metra-zappa"
+    }
+}

@@ -1,0 +1,6 @@
+ReadInboundScheduleIntent get inbound schedule for {Stop}
+ReadInboundScheduleIntent get inbound trips for {Stop}
+ReadInboundScheduleIntent get inbound trains for {Stop}
+ReadInboundScheduleIntent what is the next inbound train from {Stop}
+ReadInboundScheduleIntent what is the next inbound trip from {Stop}
+ReadInboundScheduleIntent when is the next inbound trip from {Stop}

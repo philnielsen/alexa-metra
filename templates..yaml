@@ -1,0 +1,6 @@
+welcome: |
+    <speak>
+        Welcome to Metra-Alexa.
+        Ask me to read the schedule for a line at a stop.
+        Otherwise, ask for the next inbound or outbound train at a stop
+    </speak>
